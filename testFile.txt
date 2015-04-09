@@ -1,4 +1,5 @@
 test1(master)
 test2(master)
 test3(branch2)
+test3(branch3)
 test4(branch2)
