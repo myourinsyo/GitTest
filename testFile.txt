@@ -9,3 +9,6 @@ test7(branch4)
 test8(branch5)
 test9(branch5)
 test10(branch5)
+
+-----KOSYO APPMEMO GROUP-------
+test1(branch1)
