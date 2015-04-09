@@ -12,3 +12,4 @@ test10(branch5)
 
 -----KOSYO APPMEMO GROUP-------
 test1(branch1)
+test2(branch1)
