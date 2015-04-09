@@ -6,6 +6,11 @@ test4(branch2)
 test5(branch4)
 test6(branch4)
 test7(branch4)
+<<<<<<< HEAD
 test8(branch5)
 test9(branch5)
 test10(branch5)
+=======
+tset8(branch5)
+test9(branch5)
+>>>>>>> 7f103e6... commit 2 branch5
